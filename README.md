@@ -1,3 +1,1 @@
-﻿# aprendendo_python
-
- No caso eu só estou praticando com algoritmos em python mesmo, não sei se python vai ser meu foco no ínicio...
+﻿Aprendendo um pouco sobre python e principalmente praticando bastante lógica de programação
